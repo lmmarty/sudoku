@@ -1,0 +1,12 @@
+
+.sudoku {
+    display: grid;
+    grid-template-columns: 40px 40px 40px 40px 40px 40px 40px 40px 40px;
+}
+
+.sudoku div input{
+    height: 34px;
+    width: 36px;
+    background-color: powderblue;
+    text-align: center;
+}
